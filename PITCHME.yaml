@@ -1,0 +1,47 @@
+
+#
+# Theme Setting
+# Doc: https://gitpitch.com/docs/settings/theme
+#
+theme : black
+highlight : monokai-sublime
+#
+# Theme-Override Setting
+# Doc: https://gitpitch.com/docs/settings/custom-theme
+#
+theme-override: .gitpitch/assets/css/PITCHME.css
+
+#
+# Logo Setting
+# https://gitpitch.com/docs/settings/logo
+#
+# logo : .gitpitch/assets/img/logo.png
+# logo-postion : top-left
+
+#
+# Layout Setting
+# Doc: https://gitpitch.com/docs/settings/layout
+#
+layout : center
+
+#
+# Footnote Setting
+# Doc: https://gitpitch.com/docs/settings/footnote
+#
+footnote : "" # "© 2019 Chappuis.io - Unlock the hidden complexity of python"
+
+#
+# Published Setting
+# Doc: https://gitpitch.com/docs/settings/published
+#
+published : true
+
+#
+# Twitter Card Settings [Pro Only]
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "Interagir avec une application flask en ajax"
+description : "vidéo pédagogique sur l'interaction entre une code javascript s'exécutant dans un navigateur web et une application web écrite en python à l'aide du microframework Flask."
+
+# pro-menus-hidden : true
+slide-number: true
