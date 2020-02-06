@@ -1,1 +1,1 @@
-
+Hey, salut à tous et bienvenue sur cette nouvelle nouvelle vidéo où je vais vous parler de comment échanger des informations entre un front-end dans le navigateur et une application web flask en ajax. Pour ceux qui ne me connaissent pas, je suis Thierry Chappuis, développeur et formateur. Alors si vous voulez suivre cette vidéo dans de bonne condition, il vous faudra avec suivi un cours d'introduction à python et avoir des connaissances de base en javascript.
