@@ -1,3 +1,7 @@
+---
+Title: Interagir avec une application flask en ajax
+---
+
 # Interagir avec une application flask en ajax
 
 Plan de présentation:
